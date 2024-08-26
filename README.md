@@ -5,7 +5,7 @@ As a Graphic Design student with a focus on interface design, I'm working on mul
 
 ## Skills
 - Programming Languages: HTML, CSS, JS, Python
-- Technologies: Three.js, React.js
+- Technologies: Three.js, React.js, Node.js
 - Tools: VSC, GitHub, Vite
 
 ## Projects
